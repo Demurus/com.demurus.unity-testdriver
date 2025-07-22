@@ -10,6 +10,6 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ### Added
 - Initial package scaffold
 
-[Unreleased]: https://github.com/Demurus/com.demurus.unity-testdriver/-/compare/master...dev
+[Unreleased]: https://github.com/Demurus/com.demurus.unity-testdriver/compare/master...dev
 
-[0.0.1]: https://github.com/Demurus/com.demurus.unity-testdriver/-/tree/v0.0.1
+[0.0.1]: https://github.com/Demurus/com.demurus.unity-testdriver/tree/v0.0.1
