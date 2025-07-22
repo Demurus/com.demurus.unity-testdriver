@@ -1,0 +1,14 @@
+﻿{
+  "name": "com.demurus.unity-testdriver",
+  "version": "0.0.1",
+  "displayName": "unity-testdriver",
+  "description": "Automated Play Mode testing for Unity: wait for objects, click buttons, fill fields.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Demurus",
+    "email": "demurus@gmail.com"
+  },
+  "dependencies": {
+    "com.cysharp.unitask": "2.3.0"
+  }
+}
