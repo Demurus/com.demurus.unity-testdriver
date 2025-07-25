@@ -5,6 +5,12 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ## [Unreleased]
 
+### Added
+- `ObjectFinderService` service which contains functionality to find one or more object of different types within the scene or within specific parent
+- `ObjectWaiterService` service which contains functionality to wait and find for one or more object of different types within the scene
+- `ArgumentVerifiers` holds all needed verifiers for services
+- `UniqueIdComponent` Monobehaviour script which can be added to distinguish specific objects and find them later via `ObjectFinderService` 
+
 ## [0.0.1] - 2025-07-22
 
 ### Added
